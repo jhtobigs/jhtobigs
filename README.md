@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Jhtobigs&fontAlign=50&fontSize=20&textBg=true)
 
 
-<h2 align="center">👏 Hello ! 👏 </h3>
+<h2 align="center">👏 Hello 👏 </h3>
 <p align="center"> I'm Machine Learning Engineer working at PLASK </p>
 <br>
 
