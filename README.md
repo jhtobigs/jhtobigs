@@ -4,7 +4,6 @@
 
 
 <h2 align="center">📚 Intereseted in 📚</h2>
-<p align="center"> ⚙️   <b>MLOps</b> </p>
 <p align="center"> 🤖  <b>Transformer</b>  </p>
 <p align="center"> 🕺  <b>Pose-Estimation</b> </p>
     
