@@ -1,7 +1,3 @@
-<h2 align="center">👏 Hello 👏 </h3>
-<p align="center"> I'm Machine Learning Engineer working at PLASK </p>
-<br>
-
 
 <h2 align="center">📚 Intereseted in 📚</h2>
 <p align="center"> 🤖  <b>Transformer</b>  </p>
